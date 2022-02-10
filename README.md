@@ -1,4 +1,5 @@
 # LeetCode
+>> 先從簡單開始刷，以不放棄為原則。
 ## Array
 | #    | Title | Solution | Difficulty |
 | ---- | ----- | -------- | ---------- |
