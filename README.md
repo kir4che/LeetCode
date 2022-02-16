@@ -1,5 +1,5 @@
 # LeetCode
-> 每天至少一題且不放棄為原則！！！
+每天至少一題且不放棄為原則！！！
 ## Array
 | #    | Title | Solution | Difficulty | Times | Last Coding |
 | ---- | ----- | -------- | ---------- | ----- | ----------- |
