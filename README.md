@@ -11,6 +11,4 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](https://github.com/kir4che/LeetCode/blob/main/src/Array/MoveZeroes.java) | Easy | 1 | 2022.02.14 |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](https://github.com/kir4che/LeetCode/blob/main/src/Array/ArrayPartitionI.java) | Easy | 1 | 2022.02.15 |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Java](https://github.com/kir4che/LeetCode/blob/main/src/Array/SortTheMatrixDiagonally.java) | Medium | 1 | 2022.02.20 |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](https://github.com/kir4che/LeetCode/blob/main/src/Array/RunningSumOf1dArray.java) | Easy | 1 | 2022.02.10 |
-| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Java](https://github.com/kir4che/LeetCode/blob/main/src/Array/BuildArrayFromPermutation.java) | Easy | 1 | 2022.02.09 |
-| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](https://github.com/kir4che/LeetCode/blob/main/src/Array/ConcatenetionOfArray.java) | Easy | 1 | 2022.02.09 |
+
