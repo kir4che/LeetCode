@@ -4,6 +4,7 @@
 | #    | Title | Solution | Difficulty | Times | Last Coding |
 | ---- | ----- | -------- | ---------- | ----- | ----------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/kir4che/LeetCode/blob/main/src/Array/TwoSum.java) | Easy | 1 | 2021.09.29 |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](https://github.com/kir4che/LeetCode/blob/main/src/Array/CombinationSum.java) | Medium | 1 | 2022.03.01 |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](https://github.com/kir4che/LeetCode/blob/main/src/Array/MaximumSubarray.java) | Easy | 1 | 2021.09.10 |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](https://github.com/kir4che/LeetCode/blob/main/src/Array/MajorityElement.java) | Easy | 1 | 2022.02.16 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](https://github.com/kir4che/LeetCode/blob/main/src/Array/ContainsDuplicate.java) | Easy | 1 | 2022.02.13 |
